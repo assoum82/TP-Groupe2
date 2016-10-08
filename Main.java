@@ -56,4 +56,4 @@ public class Main {
 				
 }
 	
-}
+}/* ton programme principal est correct mais j'ajouterais que le calcul de Max n'est pas bien fait pourquoi ne pas l'intégré dans la boucle qui varie les joueur puis en meme temps calcul un max encore une fois bravo */
